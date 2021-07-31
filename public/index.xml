@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on BurrowGrove</title>
+    <link>/</link>
+    <description>Recent content in Homepage on BurrowGrove</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>We are a family owned design and development business. The most important part of our process is the communication with our clients and partners. We want your vision to shine through.
+We have over thirty years experience in multiple business enterprises and creative projects. Let&amp;rsquo;s discuss how we can help fulfill your next design needs.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>   Day Hours     Monday 8:30am - 5:00pm   Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday Closed   Sunday Closed    </description>
+    </item>
+    
+  </channel>
+</rss>
